@@ -1,0 +1,11 @@
+{
+  "name": "fde-09-privacy-preserving-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "demo": "node src/demo.mjs",
+    "test": "node --test"
+  }
+}
